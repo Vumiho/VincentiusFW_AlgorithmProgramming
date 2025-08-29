@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello World!");
+  printf("Hi! My name is Vincentius Farrel Wiriadi. My favorite programming language is Python!");
   return 0;
 }
